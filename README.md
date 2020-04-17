@@ -1,5 +1,5 @@
 # MessyVsCleanClassifier
-In order to implement the learning from Introduction to tensorflow course, I implemented a scene understanding classifier using tensorflow and keras. This is classifier which uses the kaggle dataset link: https://www.kaggle.com/cdawn1/messy-vs-clean-room to determine whether a room is clean or dirty. These dataset has three directories - train,val and test. It has 200+ images for training and validation. This project is great for getting your hands dirty with keras and tensor flow and implement the basics of CONVNETS for scene classification.
+In order to implement the learning from Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning course of Coursera, I implemented a scene understanding classifier using tensorflow and keras. This is classifier which uses the kaggle dataset link: https://www.kaggle.com/cdawn1/messy-vs-clean-room to determine whether a room is clean or dirty. These dataset has three directories - train,val and test. It has 200+ images for training and validation. This project is great for getting your hands dirty with keras and tensor flow and implement the basics of CONVNETS for scene classification.
 
 ## Program flow
 
